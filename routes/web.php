@@ -12,3 +12,4 @@
 */
 
 Route::get('/{id?}', 'MailController@send');
+
